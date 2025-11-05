@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\12501163\\Desktop\\C Essentials\\exm4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E144865-F1AE-4536-9AFB-A9B4848A63FB}|exm4\\exm4.csproj|c:\\users\\12501163\\desktop\\c essentials\\exm4\\exm4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E144865-F1AE-4536-9AFB-A9B4848A63FB}|exm4\\exm4.csproj|solutionrelative:exm4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\12501163\\Desktop\\C Essentials\\exm4\\exm4\\Program.cs",
+              "RelativeDocumentMoniker": "exm4\\Program.cs",
+              "ToolTip": "C:\\Users\\12501163\\Desktop\\C Essentials\\exm4\\exm4\\Program.cs",
+              "RelativeToolTip": "exm4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T21:31:24.276Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
